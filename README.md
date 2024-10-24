@@ -75,9 +75,9 @@ amazon-ui-clone/
 
 ## Screenshots
 
-![Home Page](image1.png)
-![Home Page](image2.png)
-![Home Page](image3.png)
+![Home Page](project_photos/image1.png)
+![Home Page](project_photos/image2.png)
+![Home Page](project_photos/image3.png)
 
 ## Contact
 **Kuruva Abhinav**
