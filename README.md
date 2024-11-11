@@ -2,6 +2,7 @@
 <div align="justify">
 A visually accurate clone of Amazon's user interface built using **HTML** and **CSS**. This project replicates the design and layout of the Amazon homepage and product listing pages, with a focus on clean structure and responsive design. **Font Awesome** is used to implement icons, enhancing the user interface.
 </div>
+
 ## Table of Contents
 
 - [Project Description](#project-description)
